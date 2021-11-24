@@ -1,1 +1,22 @@
-Hola
+En tus palabras ¿Que es Internet?
+Internet es una red mundial en la que puedes buscar cualquier cosa.
+
+Describe los medios fisicos y de propagación de ondas por los que se transmite la información en Internet.
+Las ondas se transmiten de manera electromagnetica desde el modem de tu casa.
+
+¿Como se organiza Internet?
+Internet no es una red centralizada ni está regida por un solo organismo. Su estructura es semejante a una tela de araña en la cual unas redes se conectan con otras.
+
+Describe el procedimiento por el cual una cancion de Spotify llega del servidor de la compañia del celular.
+Llega decodificada la cancion y al llegar a los servidores de Spotify se decodifica.
+
+Describe los protocolos que existen en Internet.
+Los protocolos para la transmisión de datos en internet más importantes son TCP (Protocolo de Control de Transmisión) e IP (Protocolo de Internet). De manera conjunta (TCP/IP) podemos enlazar los dispositivos que acceden a la red, algunos otros protocolos de comunicación asociados a internet son POP, SMTP y HTTP.
+
+Las encriptaciones son "mensajes" que llegtan codificados.
+Las llaves públicas son redes que no tienen contraseñas.
+
+No des tus contraseñas.
+Siempre cierra sesión.
+
+La busqueda de Google funciona de la siguiente manera: Buscas y Google lo encuentra.
